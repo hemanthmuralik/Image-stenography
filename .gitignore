@@ -1,0 +1,14 @@
+# Compiled binaries
+stego
+*.out
+*.exe
+
+# Object files
+*.o
+
+# Debug files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
