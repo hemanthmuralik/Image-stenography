@@ -1,6 +1,6 @@
 # 🖼️ Image Steganography in C (LSB-based)
 
-A **lightweight, modular C application** to **hide and extract files inside BMP images** using **Least Significant Bit (LSB)** steganography. This project focuses on **bit-level data manipulation**, **memory efficiency**, and **clean modular design**, making it well-suited for **embedded systems**, **cybersecurity fundamentals**, and **low-resource environments**.
+A **lightweight, modular C application** to **hide and extract files inside BMP images** using **Least Significant Bit (LSB)** steganography. This project focuses on **bit-level data manipulation**, **memory efficiency**, and **clean modular design**, making it an ideal fit for **embedded systems**, **cybersecurity fundamentals**, and **low-resource environments**.
 
 ---
 
